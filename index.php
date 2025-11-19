@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html lang="it">
 <head>
@@ -9,3 +10,12 @@
     sarto
 </body>
 </html>
+=======
+<?php
+
+
+echo "MONDO"
+
+
+?>
+>>>>>>> 0de3d537a9f85dd523735edf289d5c170eb55446
