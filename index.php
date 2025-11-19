@@ -1,7 +1,7 @@
 <?php
 
 
-echo "ciao"
+echo "MONDO"
 
 
 ?>
